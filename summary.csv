@@ -1,0 +1,67 @@
+,Season_ID,Season,League,Team_ID,Champions,Games_Won,Player_ID,Top_Goal_Scorer,Goals_Scored
+1,89/90-LL,1989-1990,La Liga,89/90-Real Madrid,Real Madrid,26,89/90-Hugo Sánchez,Hugo Sánchez,38
+2,89/90-PL,1989-1990,Premier League,89/90-Liverpool,Liverpool,23,89/90-NA,NA,NA
+3,90/91-LL,1990-1991,La Liga,90/91-Barcelona,Barcelona,25,90/91-Emilio Butragueño,Emilio Butragueño,19
+4,90/91-PL,1990-1991,Premier League,90/91-Arsenal,Arsenal,24,90/91-NA,NA,NA
+5,91/92-LL,1991-1992,La Liga,91/92-Barcelona,Barcelona,23,91/92-Manolo,Manolo,27
+6,91/92-PL,1991-1992,Premier League,91/92-Leeds United,Leeds United,22,91/92-NA,NA,NA
+7,92/93-LL,1992-1993,La Liga,92/93-Barcelona,Barcelona,25,92/93-Bebeto,Bebeto,29
+8,92/93-PL,1992-1993,Premier League,92/93-Manchester Utd,Manchester Utd,24,92/93-Teddy Sheringham,Teddy Sheringham,22
+9,93/94-LL,1993-1994,La Liga,93/94-Barcelona,Barcelona,25,93/94-Romário,Romário,30
+10,93/94-PL,1993-1994,Premier League,93/94-Manchester Utd,Manchester Utd,27,93/94-Andy Cole,Andy Cole,34
+11,94/95-LL,1994-1995,La Liga,94/95-Real Madrid,Real Madrid,23,94/95-Iván Zamorano,Iván Zamorano,28
+12,94/95-PL,1994-1995,Premier League,94/95-Blackburn,Blackburn,27,94/95-Alan Shearer,Alan Shearer,34
+13,95/96-LL,1995-1996,La Liga,95/96-Atlético Madrid,Atlético Madrid,26,95/96-Juan Antonio Pizzi,Juan Antonio Pizzi,31
+14,95/96-PL,1995-1996,Premier League,95/96-Manchester Utd,Manchester Utd,25,95/96-Alan Shearer,Alan Shearer,31
+15,96/97-LL,1996-1997,La Liga,96/97-Real Madrid,Real Madrid,27,96/97-Ronaldo,Ronaldo,34
+16,96/97-PL,1996-1997,Premier League,96/97-Manchester Utd,Manchester Utd,21,96/97-Alan Shearer,Alan Shearer,25
+17,97/98-LL,1997-1998,La Liga,97/98-Barcelona,Barcelona,23,97/98-Christian Vieri,Christian Vieri,24
+18,97/98-PL,1997-1998,Premier League,97/98-Arsenal,Arsenal,23,97/98-Michael Owen,Michael Owen,18
+19,98/99-LL,1998-1999,La Liga,98/99-Barcelona,Barcelona,24,98/99-Raúl,Raúl,25
+20,98/99-PL,1998-1999,Premier League,98/99-Manchester Utd,Manchester Utd,22,98/99-Jimmy Floyd Hasselbaink,Jimmy Floyd Hasselbaink,18
+21,99/00-LL,1999-2000,La Liga,99/00-La Coruña,La Coruña,21,99/00-Salva Ballesta,Salva Ballesta,27
+22,99/00-PL,1999-2000,Premier League,99/00-Manchester Utd,Manchester Utd,28,99/00-Kevin Phillips,Kevin Phillips,30
+23,00/01-LL,2000-2001,La Liga,00/01-Real Madrid,Real Madrid,24,00/01-Raúl,Raúl,24
+24,00/01-PL,2000-2001,Premier League,00/01-Manchester Utd,Manchester Utd,24,00/01-Jimmy Floyd Hasselbaink,Jimmy Floyd Hasselbaink,23
+25,01/02-LL,2001-2002,La Liga,01/02-Valencia,Valencia,21,01/02-Diego Tristán,Diego Tristán,21
+26,01/02-PL,2001-2002,Premier League,01/02-Arsenal,Arsenal,26,01/02-Thierry Henry,Thierry Henry,24
+27,02/03-LL,2002-2003,La Liga,02/03-Real Madrid,Real Madrid,22,02/03-Roy Makaay,Roy Makaay,29
+28,02/03-PL,2002-2003,Premier League,02/03-Manchester Utd,Manchester Utd,25,02/03-Ruud van Nistelrooy,Ruud van Nistelrooy,25
+29,03/04-LL,2003-2004,La Liga,03/04-Valencia,Valencia,23,03/04-Ronaldo,Ronaldo,24
+30,03/04-PL,2003-2004,Premier League,03/04-Arsenal,Arsenal,26,03/04-Thierry Henry,Thierry Henry,30
+31,04/05-LL,2004-2005,La Liga,04/05-Barcelona,Barcelona,25,04/05-Diego Forlán,Diego Forlán,24
+32,04/05-PL,2004-2005,Premier League,04/05-Chelsea,Chelsea,29,04/05-Thierry Henry,Thierry Henry,25
+33,05/06-LL,2005-2006,La Liga,05/06-Barcelona,Barcelona,25,05/06-Samuel Eto'o,Samuel Eto'o,26
+34,05/06-PL,2005-2006,Premier League,05/06-Chelsea,Chelsea,29,05/06-Thierry Henry,Thierry Henry,27
+35,06/07-LL,2006-2007,La Liga,06/07-Real Madrid,Real Madrid,23,06/07-Ruud van Nistelrooy,Ruud van Nistelrooy,25
+36,06/07-PL,2006-2007,Premier League,06/07-Manchester Utd,Manchester Utd,28,06/07-Didier Drogba,Didier Drogba,20
+37,07/08-LL,2007-2008,La Liga,07/08-Real Madrid,Real Madrid,27,07/08-Dani Güiza,Dani Güiza,27
+38,07/08-PL,2007-2008,Premier League,07/08-Manchester Utd,Manchester Utd,27,07/08-Cristiano Ronaldo,Cristiano Ronaldo,31
+39,08/09-LL,2008-2009,La Liga,08/09-Barcelona,Barcelona,27,08/09-Diego Forlán,Diego Forlán,32
+40,08/09-PL,2008-2009,Premier League,08/09-Manchester Utd,Manchester Utd,28,08/09-Nicolas Anelka,Nicolas Anelka,19
+41,09/10-LL,2009-2010,La Liga,09/10-Barcelona,Barcelona,31,09/10-Lionel Messi,Lionel Messi,34
+42,09/10-PL,2009-2010,Premier League,09/10-Chelsea,Chelsea,27,09/10-Didier Drogba,Didier Drogba,29
+43,10/11-LL,2010-2011,La Liga,10/11-Barcelona,Barcelona,30,10/11-Cristiano Ronaldo,Cristiano Ronaldo,40
+44,10/11-PL,2010-2011,Premier League,10/11-Manchester Utd,Manchester Utd,23,10/11-Carlos Tevez,Carlos Tevez,20
+45,11/12-LL,2011-2012,La Liga,11/12-Real Madrid,Real Madrid,32,11/12-Lionel Messi,Lionel Messi,50
+46,11/12-PL,2011-2012,Premier League,11/12-Manchester City,Manchester City,28,11/12-Robin van Persie,Robin van Persie,30
+47,12/13-LL,2012-2013,La Liga,12/13-Barcelona,Barcelona,32,12/13-Lionel Messi,Lionel Messi,46
+48,12/13-PL,2012-2013,Premier League,12/13-Manchester Utd,Manchester Utd,28,12/13-Robin van Persie,Robin van Persie,26
+49,13/14-LL,2013-2014,La Liga,13/14-Atlético Madrid,Atlético Madrid,28,13/14-Cristiano Ronaldo,Cristiano Ronaldo,31
+50,13/14-PL,2013-2014,Premier League,13/14-Manchester City,Manchester City,27,13/14-Luis Suárez,Luis Suárez,31
+51,14/15-LL,2014-2015,La Liga,14/15-Barcelona,Barcelona,30,14/15-Cristiano Ronaldo,Cristiano Ronaldo,48
+52,14/15-PL,2014-2015,Premier League,14/15-Chelsea,Chelsea,26,14/15-Sergio Agüero,Sergio Agüero,26
+53,15/16-LL,2015-2016,La Liga,15/16-Barcelona,Barcelona,29,15/16-Luis Suárez,Luis Suárez,40
+54,15/16-PL,2015-2016,Premier League,15/16-Leicester City,Leicester City,23,15/16-Harry Kane,Harry Kane,25
+55,16/17-LL,2016-2017,La Liga,16/17-Real Madrid,Real Madrid,29,16/17-Lionel Messi,Lionel Messi,37
+56,16/17-PL,2016-2017,Premier League,16/17-Chelsea,Chelsea,30,16/17-Harry Kane,Harry Kane,29
+57,17/18-LL,2017-2018,La Liga,17/18-Barcelona,Barcelona,28,17/18-Lionel Messi,Lionel Messi,34
+58,17/18-PL,2017-2018,Premier League,17/18-Manchester City,Manchester City,32,17/18-Mohamed Salah,Mohamed Salah,32
+59,18/19-LL,2018-2019,La Liga,18/19-Barcelona,Barcelona,26,18/19-Lionel Messi,Lionel Messi,36
+60,18/19-PL,2018-2019,Premier League,18/19-Manchester City,Manchester City,32,18/19-Pierre-Emerick Aubameyang,Pierre-Emerick Aubameyang,22
+61,19/20-LL,2019-2020,La Liga,19/20-Real Madrid,Real Madrid,26,19/20-Lionel Messi,Lionel Messi,25
+62,19/20-PL,2019-2020,Premier League,19/20-Liverpool,Liverpool,32,19/20-Jamie Vardy,Jamie Vardy,23
+63,20/21-LL,2020-2021,La Liga,20/21-Atlético Madrid,Atlético Madrid,26,20/21-Lionel Messi,Lionel Messi,30
+64,20/21-PL,2020-2021,Premier League,20/21-Manchester City,Manchester City,27,20/21-Harry Kane,Harry Kane,23
+65,21/22-LL,2021-2022,La Liga,21/22-Real Madrid,Real Madrid,26,21/22-Karim Benzema,Karim Benzema,27
+66,21/22-PL,2021-2022,Premier League,21/22-Manchester City,Manchester City,29,21/22-Son Heung-min,Son Heung-min,23
